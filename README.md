@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm excited about machine learning especially deep learning
 
 <!--
 **filbert-wijaya/filbert-wijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
