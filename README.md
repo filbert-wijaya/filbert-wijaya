@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm excited about machine learning especially deep learning
+I'm Filbert Wijaya<br>
+I'm excited about machine learning especially deep learning<br>
+Check out my small project on simple image colorization <a href="https://github.com/filbert-wijaya/simple-image-colorizer">here</a>
 
 <!--
 **filbert-wijaya/filbert-wijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
