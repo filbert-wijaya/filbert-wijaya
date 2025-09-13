@@ -1,10 +1,7 @@
 ## Hi👋
-My name is Filbert Wijaya. I'm excited about deep learning. <br>
-List of projects:
-* [Mobile Phone Recommender System (Bangkit 2024 Batch 1 Capstone Project)](https://github.com/Zivenlouis/capstone-bangkit-2024)
-* [Image Segmentation and Filter](https://github.com/filbert-wijaya/image-segmentation-and-filter)
-* [Object Selection and Cropping](https://github.com/filbert-wijaya/object-selection-and-cropping)
-* [Object Detection and Image Cropping](https://github.com/filbert-wijaya/object-detection-and-image-cropping)
+My name is Filbert Wijaya. I do web development and machine learning projects. <br>
+Portfolio: https://filbert-wijaya.github.io/
+
 
 <!--
 **filbert-wijaya/filbert-wijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
